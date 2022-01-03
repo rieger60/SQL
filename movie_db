@@ -16,7 +16,7 @@ VALUES (NULL, "The Shawshank Redemption", 1994, 9.2),
        (NULL, "Schindler's List", 1993, 8.9),
        (NULL, "The Lord of the Rings: The Return of the King", 2003, 8.9),
        (NULL, "Pulp Fiction", 1994, 8.8),
-	   (NULL, "The Good, the Bad and the Ugly", 1966, 8.8),
+       (NULL, "The Good, the Bad and the Ugly", 1966, 8.8),
        (NULL, "The Lord of the Rings: The Fellowship of the Ring", 2001, 8.8);
 DESCRIBE movies;
 SELECT * FROM movies;
